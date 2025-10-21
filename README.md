@@ -1,4 +1,10 @@
-README
+# Evaluating Generative Models for Vector Graphics with Interpretable latent states.
+
+Project done for CS-433 @EPFL with LIONS’s Lab (ML4SCIENCE) in 2023.
+
+- Explores the potential of deep learning in enhancing the aesthetic quality of SVG drawings.
+- Demonstrates the potential of Transformer architectures for beautification tasks and also the challenge to generalize across diverse
+drawing styles.
 
 To set up the `latentvec` environment, follow these commands:
 
@@ -6,3 +12,4 @@ To set up the `latentvec` environment, follow these commands:
 conda create -n latentvec python=3.9
 conda activate latentvec
 pip install -r requirements.txt
+
